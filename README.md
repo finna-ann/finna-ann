@@ -5,13 +5,26 @@ I build the infrastructure and systems that keep deep learning models alive, fas
 
 ---
 
+### 📊 Dashboard & Activity
+
+<p align="center">
+  <img src="https://githubusercontent.com" alt="GitHub Contribution Snake Animation" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="Ann's GitHub Stats" height="160" />
+  <img src="https://vercel.app" alt="Top Languages" height="160" />
+</p>
+
+---
+
 ### 🧰 Tech Stack & Tools
 
 | Category | Technologies |
 | :--- | :--- |
-| **🤖 AI & MLOps** | PyTorch • Triton Inference Server • Deep Learning • Machine Learning • Python |
+| **🤖 AI & MLOps** | PyTorch • Triton Inference Server • Deep Learning • Machine Learning • Python • TensorRT • ONNX |
 | **☁️ Platform & Cloud** | AWS • Kubernetes • Docker • CI/CD • GitOps • Linux • Prometheus • Grafana |
-| **💻 Backend & Data** | Java • Spring Boot • TypeScript • Node.js • gRPC • MERN Stack • PostgreSQL |
+| **💻 Backend & Data** | Java • Spring Boot • TypeScript • Node.js • gRPC • MERN Stack • PostgreSQL • ETL |
 | **🛠️ Fundamentals** | Git • GitHub |
 
 ---
@@ -22,5 +35,3 @@ I build the infrastructure and systems that keep deep learning models alive, fas
 - ⚡ **API Gateways:** Connecting high-throughput Node.js/Spring backends to AI engines using gRPC.
 
 📫 **How to reach me:** [Your Email] / [Your LinkedIn Link]
-
-![GitHub Snake Animation](https://githubusercontent.com)
