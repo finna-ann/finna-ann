@@ -21,6 +21,6 @@ I build the infrastructure and systems that keep deep learning models alive, fas
 - 🐳 **Infrastructure:** Containerizing workloads and managing orchestration clusters via K8s.
 - ⚡ **API Gateways:** Connecting high-throughput Node.js/Spring backends to AI engines using gRPC.
 
-📫 **How to reach me:** [Your Email] / [Your LinkedIn Link]
+📫 **How to reach me:** [in/marine-a-02728042a] / [https://x.com/_marine_ann]
 
 ![Snake animation](https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake-dark.svg)
