@@ -23,4 +23,4 @@ I build the infrastructure and systems that keep deep learning models alive, fas
 
 📫 **How to reach me:** [Your Email] / [Your LinkedIn Link]
 
-![Snake animation](https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake-dark.svg)
