@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**finna-ann/finna-ann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MLOps / Deep Learning Engineer & Full-Stack Builder
+I build the infrastructure and systems that keep deep learning models alive, fast, and scalable in production. I prioritize engineering execution and system reliability over academic research.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **🤖 AI & MLOps** | PyTorch • Triton Inference Server • Deep Learning • Machine Learning • Python |
+| **☁️ Platform & Cloud** | AWS • Kubernetes • Docker • CI/CD • GitOps • Linux • Prometheus • Grafana |
+| **💻 Backend & Data** | Java • Spring Boot • TypeScript • Node.js • gRPC • MERN Stack • PostgreSQL |
+| **🛠️ Fundamentals** | Git • GitHub |
+
+---
+
+### ⚡ What I Do
+- 🛠️ **Model Serving:** Production-grade deployments using Triton with dynamic batching.
+- 🐳 **Infrastructure:** Containerizing workloads and managing orchestration clusters via K8s.
+- ⚡ **API Gateways:** Connecting high-throughput Node.js/Spring backends to AI engines using gRPC.
+
+📫 **How to reach me:** [Your Email] / [Your LinkedIn Link]
+
+[![Ann's GitHub stats](https://github-stats-extended.vercel.app/api?username=finna-ann)](https://github.com/stats-organization/github-stats-extended)
