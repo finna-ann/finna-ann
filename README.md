@@ -42,21 +42,21 @@ hobbies: ["Hard-coding Filter Coffee", "Bowling like an angel", "System Crafting
 <!-- 🤖 AI & MLOps Infrastructure -->
 <h3>&nbsp;&nbsp;🤖 AI & MLOps Engine</h3>
 <p align="left">
-  <img src="https://githubusercontent.com" alt="python" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="pytorch" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="numpy" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="pandas" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="opencv" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" alt="fastapi" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/onnx/onnx-original.svg" alt="onnx/interop" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/triton/triton-original.svg" alt="triton/gpu" width="45" height="45"/>
 </p>
 
 <!-- ☁️ Cloud & Platform Engineering -->
 <h3>&nbsp;&nbsp;☁️ Cloud & DevOps Platform</h3>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="prometheus" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="grafana" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="aws" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" alt="prometheus" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" alt="grafana" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
@@ -64,20 +64,21 @@ hobbies: ["Hard-coding Filter Coffee", "Bowling like an angel", "System Crafting
 <!-- 💻 Backend & Core Engineering -->
 <h3>&nbsp;&nbsp;💻 Enterprise Backend & Data</h3>
 <p align="left">
-  <img src="https://jsdelivr.net" alt="java" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://jsdelivr.net" alt="spring" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="typescript" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="nodejs" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://githubusercontent.com" alt="postgresql" width="45" height="45"/>&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg" alt="grpc/google" width="45" height="45"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
 
 <!-- 🎨 Premium Page Footer -->
 <br />
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://vercel.app"/>
 </p>
+
 
 ---
 
