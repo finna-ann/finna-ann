@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ann 👋
 
 ### 🚀 MLOps / Deep Learning Engineer & Full-Stack Builder
 I build the infrastructure and systems that keep deep learning models alive, fast, and scalable in production. I prioritize engineering execution and system reliability over academic research.
@@ -23,4 +23,4 @@ I build the infrastructure and systems that keep deep learning models alive, fas
 
 📫 **How to reach me:** [Your Email] / [Your LinkedIn Link]
 
-[![Ann's GitHub stats](https://github-stats-extended.vercel.app/api?username=finna-ann)](https://github.com/stats-organization/github-stats-extended)
+![Snake animation](https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake.svg)
