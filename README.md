@@ -5,19 +5,6 @@ I build the infrastructure and systems that keep deep learning models alive, fas
 
 ---
 
-### 📊 Dashboard & Activity
-
-<p align="center">
-  <img src="https://githubusercontent.com" alt="GitHub Contribution Snake Animation" />
-</p>
-
-<p align="center">
-  <img src="https://vercel.app" alt="Ann's GitHub Stats" height="160" />
-  <img src="https://vercel.app" alt="Top Languages" height="160" />
-</p>
-
----
-
 ### 🧰 Tech Stack & Tools
 
 | Category | Technologies |
@@ -35,3 +22,5 @@ I build the infrastructure and systems that keep deep learning models alive, fas
 - ⚡ **API Gateways:** Connecting high-throughput Node.js/Spring backends to AI engines using gRPC.
 
 📫 **How to reach me:** [Your Email] / [Your LinkedIn Link]
+
+![Snake animation](https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake.svg)
