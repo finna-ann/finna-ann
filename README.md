@@ -38,7 +38,33 @@ currently_learning:
 
 hobbies: ["Gaming", "Bowling", "System Crafting"]
 ```
---- 
+
+![Snake animation](https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+<h2>🏗️ &nbsp;Featured System Architecture Showcase</h2>
+
+<p align="left">
+  This blueprint demonstrates how I bridge enterprise-grade web frameworks with high-throughput, GPU-accelerated deep learning inference engines in production.
+</p>
+
+```text
+[ Client Request ] ──► [ Web Gateway API Gateway ] ───( gRPC Buffers )───► [ Triton Inference Server ]
+                            │                                                 │
+                 ( Spring Boot / Node.js )                         ( PyTorch Engine / ONNX )
+                            │                                                 │
+                            ▼                                                 ▼
+               [ PostgreSQL Database ]                         [ Prometheus & Grafana ]
+                 ( User & Session State )                      ( Cluster & VRAM Telemetry )
+```
+
+<ul>
+  <li>📦 <b>Orchestration Layer:</b> The entire multi-container environment is fully isolated using <b>Docker</b> and deployed onto high-availability <b>AWS Kubernetes (EKS)</b> cluster nodes.</li>
+  <li>⚡ <b>Low-Latency Pipeline:</b> Bypassed traditional, slower HTTP/REST boundaries by implementing high-speed binary <b>gRPC streams</b> to send payloads directly to Triton's internal C++ service architecture.</li>
+  <li>⚙️ <b>GitOps & MLOps Automation:</b> Built automated <b>CI/CD</b> workflows that trigger model profiling on repository pushes, compile weights via TensorRT, and deploy zero-downtime microservice clusters.</li>
+</ul>
+
+---
 
 <h2> 🚀 &nbsp;Tools, Frameworks, and Infrastructure</h2>
 
@@ -91,4 +117,4 @@ hobbies: ["Gaming", "Bowling", "System Crafting"]
   </a>
 </p>
 
-![Snake animation](https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake-dark.svg)
+
