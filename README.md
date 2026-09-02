@@ -39,7 +39,11 @@ currently_learning:
 hobbies: ["Gaming", "Bowling", "System Crafting"]
 ```
 
-![Snake animation](https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake animation" src="https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 ---
 <h2 id="target-architecture">🏗️ Target System Architecture — MLOps Pipeline</h2>
