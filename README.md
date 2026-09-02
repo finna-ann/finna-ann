@@ -100,11 +100,7 @@ hobbies: ["Gaming", "Bowling", "System Crafting"]
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="spring" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/>&nbsp;&nbsp;
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/grpc-tbaezo3b3bd6xxpn6uqxdc.png/grpc-9zi0mdytnzk6acjj4240g8.png?_a=DATAiZAAZAA0">
-  <img alt="grpc" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grpc/grpc-original.svg">
-</picture>
+  <img src="https://miro.medium.com/v2/1*E3QJ9U1nc4zSYDQMqJ6Vnw.png" alt="grpc/google" width="50" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
