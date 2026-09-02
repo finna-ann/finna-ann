@@ -1,4 +1,9 @@
-<img width="1441" height="302" alt="banner" src="https://github.com/user-attachments/assets/3bdb3f31-4b9d-478d-b119-a48d86421170" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/3bdb3f31-4b9d-478d-b119-a48d86421170">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/1e11f481-f3e5-4bc3-bbd6-3eeeab3ff108">
+  <img width="1441" height="302" alt="banner" src="https://github.com/user-attachments/assets/3bdb3f31-4b9d-478d-b119-a48d86421170">
+</picture>
+
 <h1>Hi there , I am Ann</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7B00F&width=700&lines=Builder+Over+Researcher;MLOps+%2F+Deep+Learning+Engineer;Spring+Backend;TS+%2F+Node.js+;Cloud+Automation+and+Platform+Eng.;AWS+%E2%80%A2+Docker+%E2%80%A2+K8s+%E2%80%A2+CI%2FCD+%E2%80%A2+Prometheus+%26+Grafana;Hard-coding+Latte)](https://git.io/typing-svg)
