@@ -42,26 +42,25 @@ hobbies: ["Gaming", "Bowling", "System Crafting"]
 ![Snake animation](https://github.com/finna-ann/finna-ann/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-<h2>🏗️ &nbsp;Featured System Architecture Showcase</h2>
+<h2 id="target-architecture">🏗️ Target System Architecture — MLOps Pipeline</h2>
 
-<p align="left">
-  This blueprint demonstrates how I bridge enterprise-grade web frameworks with high-throughput, GPU-accelerated deep learning inference engines in production.
-</p>
+<p>This is the architecture I'm building toward: a Spring Boot / Node.js API gateway bridging into a GPU-accelerated inference layer, with full observability. Current status of each piece is noted below the diagram.</p>
 
 ```text
-[ Client Request ] ──► [ Web Gateway API Gateway ] ───( gRPC Buffers )───► [ Triton Inference Server ]
-                            │                                                 │
-                 ( Spring Boot / Node.js )                         ( PyTorch Engine / ONNX )
-                            │                                                 │
-                            ▼                                                 ▼
-               [ PostgreSQL Database ]                         [ Prometheus & Grafana ]
-                 ( User & Session State )                      ( Cluster & VRAM Telemetry )
+[ Client Request ] ──► [ API Gateway ] ───( gRPC — planned )───► [ Inference Server ]
+                            │                                          │
+                 ( Spring Boot / Node.js )                    ( PyTorch Engine / ONNX )
+                            │                                          │
+                            ▼                                          ▼
+               [ PostgreSQL Database ]                    [ Prometheus & Grafana ]
+                 ( User & Session State )                  ( Cluster & Telemetry )
 ```
 
 <ul>
-  <li>📦 <b>Orchestration Layer:</b> The entire multi-container environment is fully isolated using <b>Docker</b> and deployed onto high-availability <b>AWS Kubernetes (EKS)</b> cluster nodes.</li>
-  <li>⚡ <b>Low-Latency Pipeline:</b> Bypassed traditional, slower HTTP/REST boundaries by implementing high-speed binary <b>gRPC streams</b> to send payloads directly to Triton's internal C++ service architecture.</li>
-  <li>⚙️ <b>GitOps & MLOps Automation:</b> Built automated <b>CI/CD</b> workflows that trigger model profiling on repository pushes, compile weights via TensorRT, and deploy zero-downtime microservice clusters.</li>
+  <li>📦 <b>Orchestration Layer (planned):</b> target is a Docker-isolated multi-container setup, deployed onto Kubernetes (EKS) once the gateway and serving layers are wired together.</li>
+  <li>⚡ <b>Low-Latency Pipeline (planned):</b> intend to replace REST with gRPC streams between the gateway and inference server — currently still an open design decision, not implemented.</li>
+  <li>📊 <b>Observability:</b> built early test instrumentation with Prometheus/Grafana — not yet wired into a full pipeline, but the groundwork is in place.</li>
+  <li>🧠 <b>Inference layer (evaluating):</b> still deciding on the serving engine — looking at Triton.</li>
 </ul>
 
 ---
