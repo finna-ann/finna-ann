@@ -15,7 +15,7 @@
 ```yaml
 name: Ann
 current_status: Engineering Student & MLOps Builder
-target_roles: ["MLOps Engineer Intern", "Backend / AI Systems Engineer"]
+target_roles: ["MLOps Engineer", "Backend / AI Systems Engineer", "Spring Developer"]
 
 education:
   - "B.Tech in AI & Data Science" 
